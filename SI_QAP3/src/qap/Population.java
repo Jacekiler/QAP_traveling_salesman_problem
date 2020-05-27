@@ -11,6 +11,7 @@ public class Population
 	private int best;
 	private double avg;
 	private int worst;
+	//
 	
 
 	public Population(int pop_size)
